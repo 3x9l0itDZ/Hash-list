@@ -1,0 +1,17 @@
+HashType	| Hash -Penetration Testing-
+-------------------------------------------------------------------------------------
+MD5		: 286d5e78aebba5f8f91f4da4984f65fb
+SHA1		: 049424183ea34242092eecc8deb41ea06b8b66cf
+SHA256		: e0f861202b1f9b7e0126f4ccd4f953af999310907310bd7c9482843fc57a43e1
+TIGER		: d189932500911636e139d062ef819da1d01285d49aa1d2be
+WHIRLPOOL	: 040c428ca818b707c6d6fee3207e1693a725b417284d15490bf7b6df47d3edb68f9b4e2173e48978fc2e2d74f3a87d8e3e21b5ddcd62ba540cd26e3d069a7c63
+MYSQL 		: 498eb71836f71f74
+MYSQL4/5	: 3fed14c94c0cbb2843ebdfc4774e3a17c1e0d5ee
+CRC32		: 0deeb27b
+HAVAL256	: 2e3421dc20c75bfb24879fe4d27d72f5
+SAM(LM)		: 8D8F942DCE02E06EAAD3B435B51404EE
+PHPBB3		: $H$9n2X9V1LVs.Er/uDFG8Mo4ipLbNHj7.
+MD4		: 1b0f5adf1cfcc5858defc359129fe691
+
+
+webtiste if u can need creat a hash : https://www.onlinehashcrack.com/hash-generator.php
